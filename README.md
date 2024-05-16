@@ -29,7 +29,7 @@
 </summary>
    <br>
 
-![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white) ![unity](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white) ![unity](https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=Unity&logoColor=white)
 
 
 </details>
