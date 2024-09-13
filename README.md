@@ -18,7 +18,7 @@
 </summary>
    <br>
   
- ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white) ![unity](https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=Unity&logoColor=white)
+ ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white) ![unity](https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=Unity&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white) 
 
 
 </details>
@@ -29,7 +29,7 @@
 </summary>
    <br>
 
-![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white) 
+![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white) 
 
 
 </details>
